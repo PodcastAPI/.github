@@ -6,9 +6,9 @@ It's the same API that powers the best podcast search engine [ListenNotes.com](h
 
 ## Get started
 
-- Sign up for free: [listennotes.com/api/pricing](https://www.listennotes.com/api/pricing/)
-- Read API Docs: [listennotes.com/api/docs](https://www.listennotes.com/api/docs/)
-    
+1. Sign up for free: [listennotes.com/api/pricing](https://www.listennotes.com/api/pricing/)
+2. Read API Docs: [listennotes.com/api/docs](https://www.listennotes.com/api/docs/)
+3. Fork the demo app: [Web App (Django and ReactJs)](https://github.com/ListenNotes/ListenApiDemo)    
 
 ## Use cases
 

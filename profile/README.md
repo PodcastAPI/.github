@@ -4,9 +4,10 @@ Search the meta data of all podcasts and episodes by people, places, or topics.
 
 It's the same API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). 
 
-## Sign up now
+## Get started
 
-- [listennotes.com/api/pricing](https://www.listennotes.com/api/pricing/)
+- Sign up for free: [listennotes.com/api/pricing](https://www.listennotes.com/api/pricing/)
+- Read API Docs: [listennotes.com/api/docs](https://www.listennotes.com/api/docs/)
     
 
 ## Use cases

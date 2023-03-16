@@ -1,8 +1,8 @@
 # Listen Notes Podcast API
 
-Search the meta data of all podcasts and episodes by people, places, or topics. 
+Search the metadata of all podcasts and episodes by people, places, or topics. Structured, relevant, real-time. Built by [@ListenNotes](https://github.com/ListenNotes).
 
-It's the same API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). 
+It's the API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). Trusted by 5,400+ companies & developers. 
 
 ## Get started
 

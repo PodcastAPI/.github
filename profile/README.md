@@ -25,7 +25,7 @@ What have 5,400+ companies & developers built with Listen Notes Podcast API:
 - and [more](https://www.listennotes.com/api/apps/)...
     
 
-## Why Listen API?
+## Why Listen Notes Podcast API?
 
 - **High quality podcast database**: Our data is aggregated from multiple sources and updated 24/7. Podcast data are inherently messy (e.g., malformed RSS feed, broken audio links...). We built a lot of sophisticated internal tools to clean up such messy data automatically and manually 24/7. Read [DOCS](https://www.listennotes.com/api/docs/) for all endpoints and sample JSON responses.
 - **Fast, reliable, scalable**: We take care of the complex backend infrastructure, so you can focus on your product. See [STATUS](https://www.listennotesstatus.com/) for system health.

@@ -2,7 +2,7 @@
 
 Search the metadata of all podcasts and episodes by people, places, or topics. Structured, relevant, real-time. Built by [@ListenNotes](https://github.com/ListenNotes).
 
-It's the API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). Trusted by 5,400+ companies & developers. 
+It's the API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). Trusted by 6,400+ companies & developers. 
 
 ## Get started
 
@@ -12,7 +12,7 @@ It's the API that powers the best podcast search engine [ListenNotes.com](https:
 
 ## Use cases
 
-What have 5,400+ companies & developers built with Listen Notes Podcast API:
+What have 6,400+ companies & developers built with Listen Notes Podcast API:
 
 - [E-Learning Platforms](https://www.listennotes.com/use-cases/elearning-platforms/)
 - [Podcast Clipping Apps](https://www.listennotes.com/use-cases/podcast-clipping-apps/)
@@ -31,7 +31,7 @@ What have 5,400+ companies & developers built with Listen Notes Podcast API:
 - **Fast, reliable, scalable**: We take care of the complex backend infrastructure, so you can focus on your product. See [STATUS](https://www.listennotesstatus.com/) for system health.
 - **Save time. Save money.**: It costs more than $100 for 1 hour engineering time in San Francisco. Using Listen API can easily save you hundreds of hours engineering time to build a very basic version of your own podcast database and thousands more hours to improve / maintain the infrastructure down the road.
 - **The Best Customer Support**: If you subscribe to the PRO or ENTERPRISE plan, you will get fast and informative replies from the founder and CEO of Listen Notes, who built this whole thing by hand and by heart.
-- **The Best Customer Support**: Trusted by 5,400+ companies and developers. Listen API is used by full-fledged podcast player apps, music apps, audiobook apps, smart speaker apps, PR agencies, marketing platforms, content curation services, EdTech products, and more.
+- **The Best Customer Support**: Trusted by 6,400+ companies and developers. Listen API is used by full-fledged podcast player apps, music apps, audiobook apps, smart speaker apps, PR agencies, marketing platforms, content curation services, EdTech products, and more.
 - **Here today and tomorrow**: We've been around since 2017 and we plan on being around for a long time. Listen API is a critical part of our core business. We care a lot. We actively improve Listen API. This is unlike other hobby projects from big companies, which can easily disappear after a reorg.
     
 

@@ -2,7 +2,7 @@
 
 Search the metadata of all podcasts and episodes by people, places, or topics. Structured, relevant, real-time. Built by [@ListenNotes](https://github.com/ListenNotes).
 
-It's the API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). Trusted by 6,400+ companies & developers. 
+It's the API that powers the best podcast search engine [ListenNotes.com](https://www.listennotes.com/). Trusted by 9,000+ companies & developers. 
 
 ## Get started
 

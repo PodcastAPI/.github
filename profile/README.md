@@ -12,7 +12,7 @@ It's the API that powers the best podcast search engine [ListenNotes.com](https:
 
 ## Use cases
 
-What have 6,400+ companies & developers built with Listen Notes Podcast API:
+What have 9,000+ companies & developers built with Listen Notes Podcast API:
 
 - [E-Learning Platforms](https://www.listennotes.com/use-cases/elearning-platforms/)
 - [Podcast Clipping Apps](https://www.listennotes.com/use-cases/podcast-clipping-apps/)

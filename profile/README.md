@@ -8,7 +8,7 @@ It's the API that powers the best podcast search engine [ListenNotes.com](https:
 
 1. Sign up for free: [listennotes.com/api/pricing](https://www.listennotes.com/api/pricing/)
 2. Read API Docs: [listennotes.com/api/docs](https://www.listennotes.com/api/docs/)
-3. Fork the demo app: [Web App (Django and ReactJs)](https://github.com/ListenNotes/ListenApiDemo)
+3. Fork the demo app: [Web App (Cloudflare Workers)](https://github.com/ListenNotes/demo.podcastapi.com)
 4. (optional) Install `podcast-api` skills for your coding agent: [podcast-api skills](https://github.com/PodcastAPI/skills)
 
 ## Use cases
